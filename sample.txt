@@ -1,1 +1,2 @@
-Git code misc message
+Git code misc message 
+Change from part II
