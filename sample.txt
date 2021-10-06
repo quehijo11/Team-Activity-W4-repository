@@ -1,3 +1,4 @@
 Git code misc message 
 Change from part II
-Stretch challenge change made locally from computer
+Stretch Challenge change
+
